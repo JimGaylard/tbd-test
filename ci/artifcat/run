@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "I am producing an artifact"
+echo "I am stil producing an artifact"
+echo "Finished producting artifact"
+echo
